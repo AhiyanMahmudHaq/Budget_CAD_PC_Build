@@ -52,4 +52,4 @@ The components that I have chosen on the basis of specifications given in sectio
 * Digital Storage:
   * SSDs: 
   * HDDs: 3 reliable HDDs (already owned)
-* PC Case: Montech AIR 100 LITE
+* PC Case: Montech AIR 100 LITE (White)

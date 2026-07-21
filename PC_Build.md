@@ -11,7 +11,6 @@
 * NVMe® and NVM Express® are registered trademarks of NVM Express, Inc.
 * PC Power and the PC Power logo are trademarks or registered trademarks of PC Power Technology (HK) Limited.
 * HAVIT and the HAVIT logo are trademarks or registered trademarks of Guangzhou Havit Technology Co., Ltd.
-
 * This open-source project is provided by as is basis and DOES NOT include any warranty.
 
 ### 1.1 Defining the parameters for an ideal setup

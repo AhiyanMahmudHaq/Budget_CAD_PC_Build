@@ -22,6 +22,7 @@ The computer system parameters have been given below:
  *The motherboard should have atleast 3 USB 3.0 A female ports.
  *The motherboard should have either an HDMI port or a DisplayPort port for clear, reliable viewing of CAD objects.
  *The motherboard should have atleast 2 PCI Express ports for a graphics card and another for expandability.
+ *The motherboard should have atleast 1 M.2 slot. 
  *The motherboard should allow for a capable processor such as a modern Intel i5 or AMD Ryzen 5 processor that can fit properly in the Central Processing Unit (CPU) socket while not going over-budget. 
 Note: Used motherboards may work but there is a risk of scams (bent pins) and false specifications which is unfortunately common in some markets. [New motherboard needed]
 * Graphics Card: 
@@ -49,6 +50,6 @@ The components that I have chosen on the basis of specifications given in sectio
 * Mouse: HAVIT HV-MS672 (already owned)
 * Processor:
 * Digital Storage:
-  * SSDs: 
+  * SSD: Kingston NV3 500GB M.2 PCIe Gen 4.0 NVMe SSD 
   * HDDs: 3 reliable HDDs (already owned)
 * PC Case: Montech AIR 100 LITE (White)

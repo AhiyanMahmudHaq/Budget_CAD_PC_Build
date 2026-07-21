@@ -14,7 +14,7 @@
 * This open-source project is provided by as is basis and DOES NOT include any warranty.
 
 ### Defining the parameters for an ideal setup
-TOTAL BUDGET:  United States Dollar  taka)
+TOTAL BUDGET: x United States Dollar (y Bangaladeshi Taka)
 The computer system parameters have been given below:
 * Motherboard:
  *The motherboard should be of the standard micro-ATX form factor (lowers cost significantly).

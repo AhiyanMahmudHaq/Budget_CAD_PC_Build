@@ -5,6 +5,7 @@
 * The Universal Serial Bus (USB), the USB logo are trademarks or registered trademarks of USB Implementers Forum, Inc. (USB-IF). This project is not endorsed, certified, or otherwise affiliated with USB Implementers Forum, Inc. (USB-IF).
 * DisplayPort™ and VESA® are trademarks or registered trademarks of the Video Electronics Standards Association (VESA) in the United States and other countries. This project is independent, open-source, and is not affiliated with, sponsored by, or endorsed by Video Electronics Standards Association (VESA).
 * Intel® and Core™ are trademarks of Intel Corporation or its subsidiaries. This project is independent, open-source, and is not affiliated with, sponsored by, or endorsed by Intel Corporation.
+* NVIDIA, the NVIDIA logo, GeForce are trademarks and/or registered trademarks of NVIDIA Corporation in the United States and other countries.
 * AMD, the AMD Arrow logo, Ryzen, Radeon, and combinations thereof are trademarks of Advanced Micro Devices, Inc. This project is independent, open-source, and is not affiliated with, sponsored by, or endorsed by Advanced Micro Devices, Inc.
 * The PCI Express and PCI Express logo are registered trademarks of PCI-SIG (Peripheral Component Interconnect Special Interest Group).
 * NVMe® and NVM Express® are registered trademarks of NVM Express, Inc.

@@ -13,8 +13,8 @@
 * HAVIT and the HAVIT logo are trademarks or registered trademarks of Guangzhou Havit Technology Co., Ltd.
 * This open-source project is provided by as is basis and DOES NOT include any warranty.
 
-### 1.1 Defining the parameters for an ideal setup
-TOTAL BUDGET: 202.35 United States Dollar (25,000 taka)
+### Defining the parameters for an ideal setup
+TOTAL BUDGET:  United States Dollar  taka)
 The computer system parameters have been given below:
 * Motherboard:
  *The motherboard should be of the standard micro-ATX form factor (lowers cost significantly).
@@ -24,32 +24,33 @@ The computer system parameters have been given below:
  *The motherboard should have atleast 2 PCI Express ports for a graphics card and another for expandability.
  *The motherboard should have atleast 1 M.2 slot. 
  *The motherboard should allow for a capable processor such as a modern Intel i5 or AMD Ryzen 5 processor that can fit properly in the Central Processing Unit (CPU) socket while not going over-budget. 
-Note: Used motherboards may work but there is a risk of scams (bent pins) and false specifications which is unfortunately common in some markets. [New motherboard needed]
-* Graphics Card: 
-The graphics card is essential because we will be doing CAD.
-The graphics card should be capable enough for modern CAD software. [Graphics card needed]
+Note: Used motherboards may work but there is a risk of scams (bent pins) and false specifications which is unfortunately common in some markets. [New motherboard needed].
+* RAM Modules:
+High amount of RAM and high speed is mandatory.
 * Monitor:
-The monitor should be QHD (2560 x 1440) resolution (or use an old IPS LCD TV). [I already have]
+The monitor should be QHD (2560 x 1440) resolution.
 * Keyboard:
-The keyboard should be a budget-friendly mechanical keyboard. [I already have]
+The keyboard should be a budget-friendly mechanical keyboard.
 * Mouse:
-The mouse should be wireless and comfortable to hold. [I already have]
+The mouse should be wireless and comfortable to hold.
 * Processor:
-The processor should be capable enough for modern CAD. As an example, we will be using FreeCAD. [New processor is needed]
+The processor should be capable enough for modern CAD. As an example, we will be using FreeCAD.
 * Digital Storage: 
 The build should have atleast one NVM express Solid State Drive (SSD) of atleast 128 gigabytes and have atleast 1 good Hard Disk Drive (HDD) of atleast 328 gigabytes. [I have HDDs]
 * PC Case:
 The PC case should be of the micro-ATX form factor and have good expandability; atleast 4 hard drive bays, space for a full size graphics card, space for lots of cable management. [Need a new PC case]
 
-### 1.2 Choosing the right components
+### Choosing the right components
 The components that I have chosen on the basis of specifications given in section 1.2:
 * Motherboard: MSI B450M-A PRO MAX II
-* Graphics Card:
-* Monitor: Old IPS LCD TV, with QHD (2560 x 1440) support (already owned) 
+* RAM: 
+* Monitor:  
 * Keyboard: PC Power K98 (already owned)
 * Mouse: HAVIT HV-MS672 (already owned)
-* Processor:
+* Processor: Ryzen 5 5600G
 * Digital Storage:
   * SSD: Kingston NV3 500GB M.2 PCIe Gen 4.0 NVMe SSD 
   * HDDs: 3 reliable HDDs (already owned)
 * PC Case: Montech AIR 100 LITE (White)
+
+Note: This template is used for when I get old enough to need to buy a PC.

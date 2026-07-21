@@ -11,25 +11,31 @@
 * NVMe® and NVM Express® are registered trademarks of NVM Express, Inc.
 * This open-source project is provided by as is basis and DOES NOT include any warranty.
 
-### 1.1 Defining the Parameters for an Ideal Setup
+### 1.1 Defining the parameters for an ideal setup
 The computer system parameters have been given below:
-* Motherboard
+* Motherboard:
+The motherboard should be of the standard micro-ATX form factor (lowers cost significantly).
 The motherboard (also called a mainboard) should have modern input/output (I/O) but should not be too expensive.
 The motherboard should have atleast 3 USB 3.0 A female ports.
 The motherboard should have either an HDMI port or a DisplayPort port for clear, reliable viewing of CAD objects.
 The motherboard should have atleast 2 PCI Express ports for a graphics card and another for expandability.
 The motherboard should allow for a capable processor such as a modern Intel i7 or AMD Ryzen 7 processor that can fit properly in the Central Processing Unit (CPU) socket while not going over-budget.
 Used motherboards may work but there is a risk of scams (bent pins) and false specifications which is unfortunately common in some markets.
-* Graphics Card
+* Graphics Card: 
 The graphics card is essential because we will be doing CAD.
 The graphics card should be capable enough for modern CAD software.
-* Monitor
+* Monitor:
 The monitor should be QHD (2560 x 1440) resolution (or use an old IPS LCD TV).
-* Keyboard
+* Keyboard:
 The keyboard should be a budget-friendly mechanical keyboard.
-* Mouse
+* Mouse:
 The mouse should be wireless and comfortable to hold.
-* Processor
+* Processor:
 The processor should be capable enough for modern CAD. As an example, we will be using FreeCAD.
-* Digital Storage
+* Digital Storage: 
 The build should have atleast one NVM express Solid State Drive (SSD) of atleast 128 gigabytes and have atleast 1 good Hard Disk Drive (HDD) of atleast 328 gigabytes.
+* PC Case:
+The PC case should be of the ATX form factor and have good expandability; atleast 4 hard drive bays, space for a full size graphics card, space for lots of cable management.
+### 1.2 Choosing the right components
+The components that I have chosen on the basis of specifications given in section 1.2:
+* Motherboard: 

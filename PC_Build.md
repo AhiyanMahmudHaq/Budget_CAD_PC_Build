@@ -52,5 +52,6 @@ The components that I have chosen on the basis of specifications given in sectio
   * SSD: Kingston NV3 500GB M.2 PCIe Gen 4.0 NVMe SSD 
   * HDDs: 3 reliable HDDs (already owned)
 * PC Case: Montech AIR 100 LITE (White)
+* Extra -- Mousepad: Linux Commands Desk Mat/Mousepad
 
 Note: This template is used for when I get old enough to need to buy a PC.
